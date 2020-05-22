@@ -3,3 +3,4 @@
 <h3>Practice project while learning machine learning<h3>
 
 <b>1. Simple Linear Regression</b>
+<b>2. Multiple Linear Regression</b>
